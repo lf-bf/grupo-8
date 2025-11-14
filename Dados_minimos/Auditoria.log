@@ -1,0 +1,10 @@
+LogEntry {timestamp = 2025-11-14 19:58:43.958836991 UTC, acao = Adicionar, detalhes = "ADICIONADO 1 (flechas), quantidade =10", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 19:59:04.226393674 UTC, acao = Adicionar, detalhes = "ADICIONADO 2 (arco), quantidade =1", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 19:59:19.318535399 UTC, acao = Adicionar, detalhes = "ADICIONADO 3 (espada), quantidade =2", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 19:59:45.539549796 UTC, acao = Adicionar, detalhes = "ADICIONADO 4 (batata), quantidade =5", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 19:59:58.500074083 UTC, acao = Adicionar, detalhes = "ADICIONADO 5 (tomate), quantidade =7", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 20:00:20.754291896 UTC, acao = Adicionar, detalhes = "ADICIONADO 6 (carne), quantidade =8", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 20:00:38.850531896 UTC, acao = Adicionar, detalhes = "ADICIONADO 7 (frango), quantidade =4", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 20:00:55.709086163 UTC, acao = Adicionar, detalhes = "ADICIONADO 8 (madeira), quantidade =50", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 20:01:14.02532503 UTC, acao = Adicionar, detalhes = "ADICIONADO 9 (vidro), quantidade =3", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 20:01:34.189850677 UTC, acao = Adicionar, detalhes = "ADICIONADO 10 (areia), quantidade =3", status = Sucesso}

@@ -1,0 +1,3 @@
+LogEntry {timestamp = 2025-11-14 19:11:50.748492241 UTC, acao = Adicionar, detalhes = "ADICIONADO 1 (flechas), quantidade =30", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 19:12:12.211584897 UTC, acao = Adicionar, detalhes = "ADICIONADO 2 (batata), quantidade =5", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 19:12:38.764930864 UTC, acao = Adicionar, detalhes = "ADICIONADO 3 (madeira), quantidade =20", status = Sucesso}

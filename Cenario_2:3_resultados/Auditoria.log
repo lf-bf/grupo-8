@@ -1,0 +1,2 @@
+LogEntry {timestamp = 2025-11-14 19:28:46.989557345 UTC, acao = Adicionar, detalhes = "ADICIONADO 1 (flechas), quantidade =10", status = Sucesso}
+LogEntry {timestamp = 2025-11-14 19:29:06.378739269 UTC, acao = Remover, detalhes = "Estoque insuficiente para a remo\231\227o.", status = Falha "Estoque insuficiente para a remo\231\227o."}

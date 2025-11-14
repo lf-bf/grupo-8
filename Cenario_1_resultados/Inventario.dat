@@ -1,0 +1,1 @@
+fromList [("1",Item {itemID = "1", nome = "flechas", quantidade = 30, categoria = "armamento"}),("2",Item {itemID = "2", nome = "batata", quantidade = 5, categoria = "comida"}),("3",Item {itemID = "3", nome = "madeira", quantidade = 20, categoria = "material"})]
