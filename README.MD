@@ -10,7 +10,7 @@
 
 ### Integrantes (em ordem alfabética):
 - **Bernardo Muller** - [@zzMuller](https://github.com/zzMuller)
-- **João Pedro Cochek** - [@joao-giovannoni](https://github.com/joao-giovannoni)
+- **João Pedro Cochek** - [@Cochek2903](https://github.com/Cochek2903)
 - **Luís Felipe Tozzi** - [@LuisTozzi1](https://github.com/LuisTozzi1)
 - **Luiz Fernando Brasão** - [@lf-bf](https://github.com/lf-bf)
 
